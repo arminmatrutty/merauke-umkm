@@ -1,0 +1,6 @@
+/* assets/css/custom.css */
+body { background: #f8f9fa; }
+.card { border-radius: 8px; }
+* {
+  transition: background 0.3s, color 0.3s;
+}
